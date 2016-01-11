@@ -1,0 +1,17 @@
+{
+    "name": "root/abstract-factory2",
+    "authors": [
+        {
+            "name": "Faruh Narzullaev",
+            "email": "faruh.narzullaev@sibers.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
